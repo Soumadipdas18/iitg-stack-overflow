@@ -1,0 +1,23 @@
+.blur {
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+}
+.mr-auto {
+  margin-right: auto;
+}
+.ml-auto {
+  margin-left: auto;
+}
+.input-width {
+  width: 40%;
+}
+.input-width-1 {
+  width: 5%;
+}
+
+@media (max-width: 670px) {
+  * {
+    font-size: small;
+  }
+}

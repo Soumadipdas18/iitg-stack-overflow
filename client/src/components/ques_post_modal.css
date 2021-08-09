@@ -1,0 +1,43 @@
+.form__question {
+  display: flex;
+  flex-direction: column;
+}
+.modal_size {
+  width: 100%;
+}
+.uploadimg {
+  width: 50%;
+}
+
+.img_wrp {
+  display: inline-block;
+  position: relative;
+}
+.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.container-modal {
+  position: relative;
+}
+
+.topright {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 18px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+.modal-header {
+  flex-direction: row;
+}
+@media (max-width: 670px) {
+  .uploadimg {
+    width: 100%;
+  }
+}

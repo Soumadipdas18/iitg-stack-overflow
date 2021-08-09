@@ -1,0 +1,30 @@
+.image_ques {
+  width: 60%;
+}
+.image_ans {
+  width: 40%;
+}
+.uploadimg-ans {
+  width: 40%;
+}
+.editimg {
+  width: 40%;
+}
+.avatar-parent {
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 670px) {
+  .image_ques {
+    width: 100%;
+  }
+  .image_ans {
+    width: 100%;
+  }
+  .uploadimg-ans {
+    width: 100%;
+  }
+  .editimg {
+    width: 100%;
+  }
+}
