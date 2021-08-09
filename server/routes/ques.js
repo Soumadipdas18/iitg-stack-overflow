@@ -3,9 +3,7 @@ const router = express.Router();
 const Question = require("../models/ques_Schema");
 var cloudinary = require("cloudinary").v2;
 cloudinary.config({
-  cloud_name: "dmcbeyvr4",
-  api_key: "641921374166998",
-  api_secret: "q4zM2BjtuVSux3hKkXpG_SqqcnY",
+//config
   secure: true,
 });
 //Get All questions
