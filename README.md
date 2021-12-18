@@ -1,6 +1,4 @@
 # IITG-stack-overflow
-## The website is hosted here
-- https://determined-hopper-c48e23.netlify.app/
 
 ## Features
 - Users can post general, tech related or any sort of queries on the home feed 
